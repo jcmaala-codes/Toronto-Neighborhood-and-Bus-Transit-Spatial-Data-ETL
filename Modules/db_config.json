@@ -1,0 +1,11 @@
+{
+  "environments": {
+    "toronto_railway_transit" : {
+      "NAME": "toronto_railway_transit",
+      "HOST": "localhost",
+      "PORT": "5432",
+      "USER": "postgres",
+      "PASS": "db1234"
+    }   
+  }
+}
